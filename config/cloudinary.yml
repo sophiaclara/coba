@@ -1,0 +1,18 @@
+development:
+  cloud_name: dfbwhbwfn
+  api_key: '956667963771788'
+  api_secret: DTRZMgz5LEEq4dj6Y5KFRSAXD5o
+  enhance_image_tag: true
+  static_image_support: false
+production:
+  cloud_name: dfbwhbwfn
+  api_key: '956667963771788'
+  api_secret: DTRZMgz5LEEq4dj6Y5KFRSAXD5o
+  enhance_image_tag: true
+  static_image_support: true
+test:
+  cloud_name: dfbwhbwfn
+  api_key: '956667963771788'
+  api_secret: DTRZMgz5LEEq4dj6Y5KFRSAXD5o
+  enhance_image_tag: true
+  static_image_support: false
